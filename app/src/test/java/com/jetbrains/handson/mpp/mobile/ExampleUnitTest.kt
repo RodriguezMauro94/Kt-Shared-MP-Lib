@@ -1,4 +1,4 @@
-package com.rodriguezmauro.androidktsharedmplib
+package com.jetbrains.handson.mpp.mobile
 
 import org.junit.Test
 
